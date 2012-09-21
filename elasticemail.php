@@ -1,9 +1,9 @@
-<?php namespace Emailmashup;
+<?php namespace Tacemail;
 
 class Email
 {
 	/**
-	 * API domain for EmailMashup
+	 * API domain for TacEmail
 	 *
 	 * @var string
 	 */
