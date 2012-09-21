@@ -1,14 +1,14 @@
-<?php namespace Elasticemail;
+<?php namespace Emailmashup;
 
 class Email
 {
 	/**
-	 * API domain for ElasticEmail
+	 * API domain for EmailMashup
 	 *
 	 * @var string
 	 */
 
-	const domain = 'api.elasticemail.com';
+	const domain = 'api.tacnix.com';
 
 	/**
 	 * API options
